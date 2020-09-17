@@ -14,7 +14,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Then, source the setup script to create environment variables that store the API key and the Spreadsheet ID. Email jarry.xiao@gmail.com to request the API Key (or make your own https://developers.google.com/sheets/api/quickstart/python).
+Then, source the setup script to create environment variables that store the API key and the Spreadsheet ID. Email jarry.xiao@gmail.com to request the API Key (or make your own: Guide - https://developers.google.com/sheets/api/quickstart/python, Console - https://console.developers.google.com/apis/).
 
 ```
 source setup.sh
